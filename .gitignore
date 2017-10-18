@@ -2,3 +2,8 @@
 .vscode
 
 node_modules
+
+*.iml
+.idea
+CordovaLib
+testlibs
